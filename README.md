@@ -7,4 +7,4 @@ And this is my second commit.
 
 This line was developed while issue1 was under development. 
 
-This is a new branch. Feel free to experiment here. 
+This isn't a new branch. Feel free to experiment here. 
